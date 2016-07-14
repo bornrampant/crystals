@@ -14,6 +14,7 @@
     shuffle(numbers);
     console.log(numbers);
     $('#number').text(numberToGuess);
+    // Multiple Gems
     for (var i=0; i< numbers.length; i++){
       var imageCrystal = $('<img>');
       imageCrystal.attr('data-num', numbers[i]);
