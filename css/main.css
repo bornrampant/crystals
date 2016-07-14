@@ -63,6 +63,8 @@ h2 {
       lighting-color: white;
       border-color: white;
       color: white;
+      font-size: 45px;
+      position: left;
 }
 
 img {
@@ -78,3 +80,7 @@ footer{
         width: 100%;
     }
 }
+.crystalImage {
+      width:6.5%; 
+      height:8%;
+    }
